@@ -147,7 +147,7 @@ function Users() {
               <div className="skill-section">
 
                 <h4>💡 Skills</h4>
-
+                
                 <div className="tags">
                   {u.skills.length > 0 ? (
                     u.skills.map((skill, i) => (
